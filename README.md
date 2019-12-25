@@ -1,2 +1,2 @@
 # images_repo
-images repo
+This repo used for img repo
